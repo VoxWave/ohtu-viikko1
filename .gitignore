@@ -1,3 +1,6 @@
 target/
 *.xxx
 OhtuVarasto/target/
+OhtuVarasto/.classpath
+OhtuVarasto/.project
+OhtuVarasto/.settings
